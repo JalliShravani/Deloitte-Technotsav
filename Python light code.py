@@ -5,6 +5,8 @@ import ibmiotf.application
 import ibmiotf.device
 
 #Provide your IBM Watson Device Credentials
+
+These are the credentials of the arduino cboard.
 organization = "ptfjhr" # repalce it with organization ID
 deviceType = "Lights" #replace it with device type
 deviceId = "simple" #repalce with device id
